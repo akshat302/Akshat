@@ -1,2 +1,2 @@
 # Akshat
-projects made using JavaScript
+Projects made using JavaScript.
